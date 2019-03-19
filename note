@@ -1,0 +1,2 @@
+如果下载后运行报出net.sf.jasperreports.engine.JRException: Error loading byte data... 这错误，是需要添加jasper-compiler-jdt.jar.
+需要注意，这个错误只会出现在将项目打成jar包后运行时出现。
